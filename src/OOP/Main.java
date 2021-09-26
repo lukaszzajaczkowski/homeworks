@@ -62,9 +62,6 @@ public class Main {
         System.out.println("I'm " + student.getAge());
         student.setGrade(5);
         System.out.println("My grade is: " + student.getGrade());
-
-
-
         System.out.println("----------");
     }
 }
